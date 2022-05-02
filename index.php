@@ -3,7 +3,7 @@ $metodo = $_SERVER['REQUEST_METHOD'];
 $index="http://localhost:8081/backrest/index.php";
 $servername = "172.17.0.1:3307";
 $user = "root";
-$pass = "ricca";
+$pass = "mirko";
 $db="mydb";
   
 // Create connection
